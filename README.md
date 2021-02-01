@@ -4,7 +4,7 @@ A bash script for converting bedpe files between different genomes builds using 
 Pre-requisites:
 
 1) liftOver from NCBI has been installed and added to the PATH variable;
-2) The liftOver chain file exists (chain files can be downloaded from: http://hgdownload.cse.ucsc.edu/goldenpath/hg38/liftOver/)
+2) The liftOver chain file exists (chain files can be downloaded from: https://hgdownload.soe.ucsc.edu/downloads.html)
 
 Usage:
 
