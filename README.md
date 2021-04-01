@@ -13,5 +13,5 @@ You only need to provide two arguments to the liftOverBEDPE.sh script:
 1) input=input.bedpe
 2) chain=chain (eg: hg19ToHg38.over.chain)
 
-To evoke liftOverBEDPE.sh, either execute `chmod +x liftOverBEDPE.sh` first, or type `bash liftOverBEDPE.sh input=[input].bedpe chain=[chain]` for each liftOver job.
+To invoke liftOverBEDPE.sh, either execute `chmod +x liftOverBEDPE.sh` first, or type `bash liftOverBEDPE.sh input=[input].bedpe chain=[chain]` for each liftOver job.
 
